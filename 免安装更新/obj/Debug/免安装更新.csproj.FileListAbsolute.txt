@@ -1,0 +1,10 @@
+D:\VS2019\免安装更新\bin\Debug\免安装更新.exe.config
+D:\VS2019\免安装更新\bin\Debug\免安装更新.exe
+D:\VS2019\免安装更新\bin\Debug\免安装更新.pdb
+D:\VS2019\免安装更新\obj\Debug\免安装更新.csprojAssemblyReference.cache
+D:\VS2019\免安装更新\obj\Debug\免安装更新.Form1.resources
+D:\VS2019\免安装更新\obj\Debug\免安装更新.Properties.Resources.resources
+D:\VS2019\免安装更新\obj\Debug\免安装更新.csproj.GenerateResource.cache
+D:\VS2019\免安装更新\obj\Debug\免安装更新.csproj.CoreCompileInputs.cache
+D:\VS2019\免安装更新\obj\Debug\免安装更新.exe
+D:\VS2019\免安装更新\obj\Debug\免安装更新.pdb
